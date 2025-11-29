@@ -185,7 +185,7 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 
 
 
-# Educations
+# Education
 - **Ph.D.**, Civil Engineering, *2022.05 - 2026.02 (expected)*, RMIT University, Melbourne, Australia.
 - **M.Eng.** (Double Degree), Civil Engineering, *2018.09 - 2021.06*, Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
 - **M.Eng.** (Double Degree), Civil Engineering, *2018.09 - 2021.06*, Tongji University, Shanghai, China.
