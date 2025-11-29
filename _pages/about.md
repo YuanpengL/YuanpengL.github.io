@@ -89,7 +89,7 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 **Yuanpeng Liu**, Ting-Uei Lee, Yi Min Xie
 
-*Proceedings of International Association for Shell and Spatial Structures (IASS), 2024, Zürich*
+*Proceedings of International Association for Shell and Spatial Structures (IASS) 2024, Zürich*
 
 [paper](https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf)
 
