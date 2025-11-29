@@ -185,14 +185,12 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 
 
 
-
-# Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Ph.D.**, Civil Engineering, *2022.05 - 2026.02 (expected)*, RMIT University.
+- **M.Eng.** (Double Degree), Civil Engineering, *2018.09 - 2021.06*, Universitat Politècnica de Catalunya (UPC).
+- **M.Eng.** (Double Degree), Civil Engineering, *2018.09 - 2021.06*, Tongji University.
+- **B.Eng.**, Civil Engineering, *2014.09 - 2018.06*, Tongji University.
+
 
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
