@@ -30,6 +30,9 @@ During my PhD at RMIT CISM, I developed computational frameworks for **approxima
 - *2025.02 - 2025.07*: I had a research visit at EPFL [Geometric Computing Labratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on the topic of "Elastic Gridshells with Locally Deployable Components".
 - *2024.09*: &nbsp;I presented our paper entitled "Free-form Surface Approximation Using Congruent Regular Triangles" at the [Syposium of International Association for Shell and Spatial Structures (IASS) 2024](https://iass2024.org/web/) at ETH Zürich.
 - *2024.02*: I had a research visit at University of Technology Sydney (UTS), Sydney, hosted by Prof. Nico Pietroni, on the topic of "Free-form Surface Approximation Using Rotational Patches".
+- *2023.08*: I presented our paper on Free-form Surface Approximation Using Congruent Regular Triangles at the [Syposium of International Association for Shell and Spatial Structures (IASS) 2023](https://iass2024.org/web/) in Melbourne.
+- *2022.05*: I started my PhD at RMIT CISM, supervised by Prof. Yi Min 'Mike' Xie.
+- *2021.08 - 2022.05*: I worked as a research assitant at RMIT CISM, supervised by Prof. Yi Min 'Mike' Xie.
 
 # Selected Publications 
 
