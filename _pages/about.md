@@ -79,6 +79,26 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 
 
+<div class="paper-box">
+  <div class="paper-box-image"><div><a href="https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf" target="_blank"><img src="images/gridshell.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-text" markdown="1">
+
+**Free-form surface approximation using congruent regular triangles**  
+
+**Yuanpeng Liu**, Ting-Uei Lee, Yi Min Xie
+
+*Proceedings of International Association for Shell and Spatial Structures (IASS), 2024, Zürich*
+
+[paper](https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf)
+
+We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
+</div>
+</div>
+
+
+
+
+
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
