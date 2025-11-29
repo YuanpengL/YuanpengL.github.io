@@ -31,7 +31,7 @@ At RMIT’s CISM, I developed computational frameworks for approximating free-fo
 
 See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf)) profile for full publication list.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAG 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAG 2025</div><img src='images/YPL photo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components
