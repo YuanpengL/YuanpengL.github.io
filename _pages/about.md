@@ -191,7 +191,7 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 - **M.Eng.** (Double Degree), Civil Engineering, *2018.09 - 2021.06*, Tongji University, Shanghai, China.
 - **B.Eng.**, Civil Engineering, *2014.09 - 2018.06*, Tongji University, Shanghai, China.
 
-# Research experience
+# Research Experience
 - **PhD Researcher**, *2022.05 - 2026.02*, RMIT, CISM, Melbourne, Australia.
 - **Visiting PhD Student**, *2025.02 - 2025.07*, EPFL, Geometric Computing Labratory, Lausanne, Switzerland.
 - **Visiting PhD Student**, *2024.02*, EPFL, University of Technology Sydney (UTS), Sydney, Australia.
