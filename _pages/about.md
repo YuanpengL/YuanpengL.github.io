@@ -23,7 +23,7 @@ My work lies at the intersection of **architectural geometry**, **computational 
 
 During my PhD at RMIT CISM, we developed computational frameworks for **approximating free-form surfaces with repetitive elements** to achieve cost-effective fabrication. These algorithms enable: (1) reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**; (2) approximating complex free-form surfaces using equivalent regular triangle panels in **mesh-growth** manner; and (3) simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**. 
 
-During my visit at EPFL GCM, we proposed a new type of **elastic gridshell composed of locally deployable rotational-surface components**, which can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
+During PhD, I had a visit at EPFL GCM hosted by Prof. Mark Pauly, where I proposed a new type of **elastic gridshell composed of locally deployable rotational-surface components**, which can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
 # News
 - *2025.11*: &nbsp;New paper presented at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
@@ -192,9 +192,9 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 - **B.Eng.**, Civil Engineering, *2014.09 - 2018.06*, Tongji University, Shanghai, China.
 
 # Research Experience
-- **PhD Researcher**, *2022.05 - 2026.02*, RMIT, CISM, Melbourne, Australia.
+- **PhD Student Researcher**, *2022.05 - 2026.02*, RMIT, CISM, Melbourne, Australia.
 - **Visiting PhD Student**, *2025.02 - 2025.07*, EPFL, Geometric Computing Labratory, Lausanne, Switzerland.
 - **Visiting PhD Student**, *2024.02*, EPFL, University of Technology Sydney (UTS), Sydney, Australia.
-- **Research Assistant**, *2021.08 - 2022.05*, RMIT, CISM, Melbourne, Switzerland.
+- **Research Assistant**, *2021.08 - 2022.05*, RMIT, CISM, Melbourne, Australia.
 
 <sub><i>Last updated on 29 November 2025</i></sub>
