@@ -101,7 +101,7 @@ We present a meth growth algorithm to approximate free-form surfaces using equiv
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005" target="_blank"><img src="images/physicalModel.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Clustering and optimisation of nodes, beams and panels for cost-effective fabrication of free-form surfaces**  
