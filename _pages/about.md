@@ -146,7 +146,7 @@ Given an input mesh, we reduce the number of different n-gonal faces through clu
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029623004303" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029623004303" target="_blank"><img src="images/reduceNode.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Reducing the Number of Different Nodes in Space Frame Structures through Clustering and Optimization**  
