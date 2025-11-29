@@ -27,15 +27,13 @@ During my PhD at RMIT CISM, I developed computational frameworks for **approxima
 - *2025.11*: &nbsp;I presented our paper entitled "Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components" at [Advances in Architectural Geometry (AAG) 2025](https://www.aag2025.com/) at MIT, Boston.
 - *2025.11*: &nbsp;Together with Alison Martin, Prof. Mark Pauly, Dr. Seiichi Suzuki, we led a workshop on "[Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements](https://www.aag2025.com/workshop-2)" [Advances in Architectural Geometry (AAG) 2025](https://www.aag2025.com/) at MIT, Boston.
 - *2025.06*: Our paper entitled "Free-Form Surface Approximation Using Rotational Patches" has been accepted to ACM Transactions on Graphics and will be presented at SIGGRAPH 2026, Los Angeles.
-- *2025.02 - 2025.07*: I had a research visit at EPFL [Geometric Computing Labratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, on the topic of "Elastic Gridshells with Locally Deployable Components".
+- *2025.02 - 2025.07*: I had a research visit at EPFL [Geometric Computing Labratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on the topic of "Elastic Gridshells with Locally Deployable Components".
 - *2024.09*: &nbsp;I presented our paper entitled "Free-form Surface Approximation Using Congruent Regular Triangles" at the [Syposium of International Association for Shell and Spatial Structures (IASS) 2024](https://iass2024.org/web/) at ETH Zürich.
+- *2024.02*: I had a research visit at University of Technology Sydney (UTS), Sydney, hosted by Prof. Nico Pietroni, on the topic of "Free-form Surface Approximation Using Rotational Patches".
 
 # Selected Publications 
 
 See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) for my full publication list.
-
-
-
 
 
 
