@@ -80,7 +80,7 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><a href="https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf" target="_blank"><img src="images/meshGrowth.mp4" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf" target="_blank"><video width="100%" autoplay muted loop playsinline><source src="images/meshGrowth.mp4" type="video/mp4"></video></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Free-form surface approximation using congruent regular triangles**  
