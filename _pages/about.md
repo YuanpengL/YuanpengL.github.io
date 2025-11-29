@@ -34,7 +34,7 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAG 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
+Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components
 
 [pdf](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
