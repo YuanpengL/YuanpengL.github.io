@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a soon-to-graduate Ph.D. candidate at the Centre for Innovative Structures and Materials (CISM), Royal Melbourne Institute of Technology (RMIT).
+I'm a soon-to-graduate Ph.D. candidate at the Centre for Innovative Structures and Materials (CISM), Royal Melbourne Institute of Technology (RMIT).
 
 My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**. The primary aim is to integrate geometric insights with computational power to create structurally efficient, aesthetically refined designs, while advancing feasible and cost-effective strategies for materialization at the architectural scale.
 
@@ -29,12 +29,14 @@ At RMIT’s CISM, I developed computational frameworks for approximating free-fo
 
 # Selected Publications 
 
+See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate]([https://www.researchgate.net/](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf)) profile for full publication list.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
