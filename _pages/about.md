@@ -29,7 +29,7 @@ At RMIT’s CISM, I developed computational frameworks for approximating free-fo
 
 # Selected Publications 
 
-See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) profile for full publication list.
+See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) profile for full publication list.
 
 
 
@@ -44,7 +44,7 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 
 **Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly  
 
-*Advances in Architectural Geometry 2025, Boston*
+*Advances in Architectural Geometry (AAG) 2025, Boston*
 
 [paper](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
@@ -65,7 +65,7 @@ We present a new class of elastic gridshell that are assembled from locally depl
 
 **Yuanpeng Liu**, Yi Min Xie, Ting-Uei Lee, Ziqi Wang, Nico Pietroni  
 
-*ACM Transactions on Graphics (to appear at SIGGRAPH 2026, Los Angeles)*
+*ACM Transactions on Graphics (SIGGRAPH 2026, Los Angeles)*
 
 [paper](https://dl.acm.org/doi/full/10.1145/3744707)
 
@@ -91,9 +91,32 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 [paper](https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf)
 
-We present a meth growth algorithm to approximate free-form surfaces using regular or near-regular triangles.
+We present a meth growth algorithm to approximate free-form surfaces using equivalent regular triangles.
 </div>
 </div>
+
+
+
+
+
+
+<div class="paper-box">
+  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0010448523001653" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-text" markdown="1">
+
+**Reducing the Number of Different Faces in Free-form Surface Approximations through Clustering and Optimization**  
+
+**Yuanpeng Liu**, Ting-Uei Lee, Anooshe Rezaee Javan, Nico Pietroni, Yi Min Xie
+
+*Computer-Aided Design, 2024*
+
+[paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)
+
+We present a meth growth algorithm to approximate free-form surfaces using equivalent regular triangles.
+</div>
+</div>
+
+
 
 
 
