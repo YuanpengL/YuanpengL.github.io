@@ -166,6 +166,24 @@ Given an input mesh, we reduce the number of different nodes through clustering 
 
 
 
+<div class="paper-box">
+  <div class="paper-box-image"><div><a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675" target="_blank"><img src="images/reduceNode.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-text" markdown="1">
+
+**Extending Goldberg’s Method to Parametrize and Control the Geometry of Goldberg Polyhedra**  
+
+**Yuanpeng Liu**, Ting-Uei Lee, Anooshe Rezaee Javan, Yi Min Xie
+
+*Royal Society Open Science, 2022*
+
+[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
+
+We discovered numerically a family of spherical Goldberg Polyhedra that have faces being planar with all vertices lieing on a shpere. Remaining degrees of freedom allows further reducing the number of different edges.
+</div>
+</div>
+
+
+
 
 
 # Honors and Awards
