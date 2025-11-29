@@ -27,9 +27,9 @@ author:
   #location        : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=neiW5ZgAAAAJ&hl=en"
+  email            : "yuanpeng.l@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf&_sg=aDfQDsO3OX6ULExSOpog_DSZuWq-DTw201kWnGL8RNO-exxFB3P9cugyJHVidQ3MmmsvIIxwC-xn48Lxxk0fLMBD&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "yuanpeng-liu-0244a1248"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
