@@ -67,7 +67,7 @@ We present a new class of elastic gridshell that are assembled from locally depl
 
 **Yuanpeng Liu**, Yi Min Xie, Ting-Uei Lee, Ziqi Wang, Nico Pietroni  
 
-*ACM Transactions on Graphics (SIGGRAPH 2026, Los Angeles)*
+*ACM Transactions on Graphics, 2025 (to appear at SIGGRAPH 2026, Los Angeles)*
 
 [paper](https://dl.acm.org/doi/full/10.1145/3744707)
 
