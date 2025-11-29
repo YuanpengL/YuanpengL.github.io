@@ -101,7 +101,7 @@ We present a meth growth algorithm to approximate free-form surfaces using equiv
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0010448523001653" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0010448523001653" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Reducing the Number of Different Faces in Free-form Surface Approximations through Clustering and Optimization**  
