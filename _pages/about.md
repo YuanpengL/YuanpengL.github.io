@@ -37,7 +37,7 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><div class="badge">AAG 2025</div><a href="https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461" target="_blank"><img src="images/gridshell.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461" target="_blank"><img src="images/gridshell.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components**  
@@ -58,7 +58,7 @@ We present a new class of elastic gridshell that are assembled from locally depl
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><div class="badge">SIGGRAPH 2026</div><a href="https://dl.acm.org/doi/full/10.1145/3744707" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><a href="https://dl.acm.org/doi/full/10.1145/3744707" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Free-form Surface Approximation Using Rotational Patches**  
