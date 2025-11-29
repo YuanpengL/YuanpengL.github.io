@@ -196,3 +196,5 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 - **Visiting PhD Student**, *2025.02 - 2025.07*, EPFL, Geometric Computing Labratory, Lausanne, Switzerland.
 - **Visiting PhD Student**, *2024.02*, EPFL, University of Technology Sydney (UTS), Sydney, Australia.
 - **Research Assistant**, *2021.08 - 2022.05*, RMIT, CISM, Melbourne, Switzerland.
+
+<sub><i>Last updated on 29 November 2025</i></sub>
