@@ -31,7 +31,7 @@ During my visit at EPFL GCM, we proposed a new type of **elastic gridshell compo
 
 # Selected Publications 
 
-See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) profile for full publication list.
+See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) for my full publication list.
 
 
 
@@ -137,7 +137,27 @@ We build a physical prototype with repetitive panels, beams, and joints.
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)  [GHPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
 
-Given an input polygonal mesh, we reduce the number of different faces by interleaving clustering and optimization.
+Given an input mesh, we reduce the number of different n-gonal faces through clustering and optimization.
+</div>
+</div>
+
+
+
+
+
+<div class="paper-box">
+  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029623004303" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-text" markdown="1">
+
+**Reducing the Number of Different Nodes in Space Frame Structures through Clustering and Optimization**  
+
+**Yuanpeng Liu**, Ting-Uei Lee, Antiopi Koronaki, Nico Pietroni, Yi Min Xie
+
+*Engineering Structures, 2023*
+
+[paper](https://www.sciencedirect.com/science/article/pii/S0141029623004303)
+
+Given an input mesh, we reduce the number of different nodes through clustering and optimization.
 </div>
 </div>
 
