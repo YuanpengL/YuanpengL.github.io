@@ -35,7 +35,9 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 <div class='paper-box-text' markdown="1">
 
 [Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
+
 [pdf](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
+
 **Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly
 
 We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
