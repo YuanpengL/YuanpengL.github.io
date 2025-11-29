@@ -34,11 +34,13 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAG 2025</div><img src='images/500x300.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components
+**Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components**  
+
+**Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly  
+
+*Advances in Architectural Geometry 2025, Boston*
 
 [pdf](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
-
-**Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly
 
 We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
 </div>
