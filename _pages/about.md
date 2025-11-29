@@ -101,6 +101,29 @@ We present a meth growth algorithm to approximate free-form surfaces using equiv
 
 
 <div class="paper-box">
+  <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-text" markdown="1">
+
+**Clustering and optimisation of nodes, beams and panels for cost-effective fabrication of free-form surfaces**  
+
+Minghao Bi, **Yuanpeng Liu**, Tao Xu, Yunzhen He, Jiaming Ma, Zicheng Zhuang, Yi Min Xie
+
+*Engineering Structures, 2024*
+
+[paper](https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005)   [website](https://www.rmit.edu.au/research/centres-collaborations/centre-for-innovative-structures-and-materials/projects/optimised-pavillion)  [video](https://youtu.be/9l1Cq9cxjMk)
+
+Given an input polygonal mesh, we reduce the number of different faces by interleaving clustering and optimization.
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="paper-box">
   <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0010448523001653" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
@@ -110,7 +133,7 @@ We present a meth growth algorithm to approximate free-form surfaces using equiv
 
 *Computer-Aided Design, 2024*
 
-[paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)     [GHPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
+[paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)     [GrasshopperPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
 
 Given an input polygonal mesh, we reduce the number of different faces by interleaving clustering and optimization.
 </div>
