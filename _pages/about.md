@@ -58,7 +58,7 @@ We present a new class of elastic gridshell that are assembled from locally depl
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="https://dl.acm.org/doi/full/10.1145/3744707" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://dl.acm.org/doi/full/10.1145/3744707" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Free-form Surface Approximation Using Rotational Patches**  
