@@ -63,7 +63,7 @@ We present a new class of elastic gridshell that are assembled from locally depl
   <div class="paper-box-image"><div><a href="https://dl.acm.org/doi/full/10.1145/3744707" target="_blank"><img src="images/rotPatch.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
-**Free-form Surface Approximation Using Rotational Patches**  
+**Free-Form Surface Approximation Using Rotational Patches**  
 
 **Yuanpeng Liu**, Yi Min Xie, Ting-Uei Lee, Ziqi Wang, Nico Pietroni  
 
@@ -85,7 +85,7 @@ We present a method to approximate free-form surfaces using assemblies of rotati
   <div class="paper-box-image"><div><a href="https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf" target="_blank"><video width="100%" autoplay muted loop playsinline><source src="images/meshGrowth.mp4" type="video/mp4"></video></a></div></div>
   <div class="paper-box-text" markdown="1">
 
-**Free-form surface approximation using congruent regular triangles**  
+**Free-form Surface Approximation Using Congruent Regular Triangles**  
 
 **Yuanpeng Liu**, Ting-Uei Lee, Yi Min Xie
 
@@ -106,7 +106,7 @@ We present a meth growth algorithm to approximate free-form surfaces using equiv
   <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005" target="_blank"><img src="images/physicalModel.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
-**Clustering and optimisation of nodes, beams and panels for cost-effective fabrication of free-form surfaces**  
+**Clustering and Optimisation of Nodes, Beams and Panels for Cost-Effective Fabrication of Free-Form Surfaces**  
 
 Minghao Bi, **Yuanpeng Liu**, Tao Xu, Yunzhen He, Jiaming Ma, Zicheng Zhuang, Yi Min Xie
 
@@ -129,7 +129,7 @@ We build a physical prototype with repetitive panels, beams, and joints.
   <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0010448523001653" target="_blank"><img src="images/reduceFace.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
-**Reducing the Number of Different Faces in Free-form Surface Approximations through Clustering and Optimization**  
+**Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization**  
 
 **Yuanpeng Liu**, Ting-Uei Lee, Anooshe Rezaee Javan, Nico Pietroni, Yi Min Xie
 
@@ -149,7 +149,7 @@ Given an input mesh, we reduce the number of different n-gonal faces through clu
   <div class="paper-box-image"><div><a href="https://www.sciencedirect.com/science/article/pii/S0141029623004303" target="_blank"><img src="images/reduceNode.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
-**Reducing the Number of Different Nodes in Space Frame Structures through Clustering and Optimization**  
+**Reducing the Number of Different Nodes in Space Frame Structures Through Clustering and Optimization**  
 
 **Yuanpeng Liu**, Ting-Uei Lee, Antiopi Koronaki, Nico Pietroni, Yi Min Xie
 
