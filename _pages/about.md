@@ -24,8 +24,8 @@ My work lies at the intersection of **architectural geometry**, **computational 
 During my PhD at RMIT CISM, I developed computational frameworks for **approximating free-form surfaces with repetitive elements** to achieve cost-effective fabrication. These algorithms enable: (1) reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**; (2) approximating complex free-form surfaces using equivalent regular triangle panels in **mesh-growth** manner; and (3) simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**. I also had a visit at EPFL GCM hosted by Prof. Mark Pauly, where I proposed a new type of **elastic gridshell composed of locally deployable rotational-surface components**, which can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
 # News
-- *2025.11*: &nbsp;New paper presented at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
-- *2025.11*: &nbsp;Led a workshop at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
+- *2025.11*: &nbsp;I presented our new paper "Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components" at [Advances in Architectural Geometry (AAG) 2025](https://www.aag2025.com/) at MIT, Boston.
+- *2025.11*: &nbsp;Together with Alison Martin, Prof. Mark Pauly, Dr. Seiichi Suzuki, we led a workshop on "[Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements](https://www.aag2025.com/workshop-2)" at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
 
 # Selected Publications 
 
