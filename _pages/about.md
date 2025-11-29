@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuanpeng Liu, a final-year Ph.D. candidate at RMIT CISM.
+I'm a final-year PhD candidate at the Centre for Innovative Structures and Materials (CISM), Royal Melbourne Institute of Technology (RMIT). Fascinated by computational geometric design and digital fabrication, he explores how to create free-form architectural structures using repetitive building elements for cost-effective fabrication.
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;New paper presented at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
+- *2025.11*: &nbsp;Led a workshop at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='YPL photo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
