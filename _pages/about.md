@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final-year PhD candidate at the Centre for Innovative Structures and Materials (CISM), Royal Melbourne Institute of Technology (RMIT). Fascinated by computational geometric design and digital fabrication, he explores how to create free-form architectural structures using repetitive building elements for cost-effective fabrication.
+I'm currently a soon-to-graduate Ph.D. candidate at the Centre for Innovative Structures and Materials (CISM), Royal Melbourne Institute of Technology (RMIT).
+
+My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**. The primary aim is to integrate geometric insights with computational power to create structurally efficient, aesthetically refined designs, while advancing feasible and cost-effective strategies for materialization at the architectural scale.
+
+At RMIT’s CISM, I developed computational frameworks for approximating free-form surfaces with repetitive elements to achieve cost-effective fabrication. These algorithms enable: (1) reducing individually the number of distinct beams, panels, or joints within a given structure; (2) approximating complex free-form surfaces using equivalent regular triangle panels; and (3) simultaneously reducing multiple element types (including beams, joints, and panels) by approximating free-forms surfaces using assemblies of rotational patches. At EPFL’s GCM, I proposed a new type of elastic gridshell composed of locally deployable rotational-surface components, which can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
 # News
 - *2025.11*: &nbsp;New paper presented at Advances in Architectural Geometry (AAG) 2025 at MIT, Boston.
