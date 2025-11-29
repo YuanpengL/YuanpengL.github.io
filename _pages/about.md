@@ -110,9 +110,9 @@ We present a meth growth algorithm to approximate free-form surfaces using equiv
 
 *Computer-Aided Design, 2024*
 
-[paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)
+[paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653) [GHPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
 
-We present a meth growth algorithm to approximate free-form surfaces using equivalent regular triangles.
+Given an input polygonal mesh, we reduce the number of different faces by interleaving clustering and optimization.
 </div>
 </div>
 
