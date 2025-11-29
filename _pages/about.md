@@ -31,6 +31,9 @@ At RMIT’s CISM, I developed computational frameworks for approximating free-fo
 
 See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) profile for full publication list.
 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAG 2025</div><img src='images/gridshell.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,13 +43,34 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 
 *Advances in Architectural Geometry 2025, Boston*
 
-[pdf](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
+[paper](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
 We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAG 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Free-form Surface Approximation Using Rotational Patches**  
+
+**Yuanpeng Liu**, Yi Min Xie, Ting-Uei Lee, Ziqi Wang, Nico Pietroni  
+
+*ACM Transactions on Graphics (to appear at SIGGRAPH 2026, Los Angeles)*
+
+[paper](https://dl.acm.org/doi/full/10.1145/3744707)
+
+We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
+</div>
+</div>
+
+
+
+
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
