@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanpeng Liu"
-description              : "Ph.D. Candidate, RMIT"
+#description              : "Ph.D. Candidate, RMIT"
 #repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
