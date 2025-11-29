@@ -29,7 +29,7 @@ At RMIT’s CISM, I developed computational frameworks for approximating free-fo
 
 # Selected Publications 
 
-See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate]([https://www.researchgate.net/](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf)) profile for full publication list.
+See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf)) profile for full publication list.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,8 +38,7 @@ See my [GoogleSholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAA
 
 **Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
 </div>
 </div>
 
