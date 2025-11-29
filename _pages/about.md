@@ -167,7 +167,7 @@ Given an input mesh, we reduce the number of different nodes through clustering 
 
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675" target="_blank"><img src="images/reduceNode.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-image"><div><a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675" target="_blank"><img src="images/goldberg.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
 
 **Extending Goldberg’s Method to Parametrize and Control the Geometry of Goldberg Polyhedra**  
