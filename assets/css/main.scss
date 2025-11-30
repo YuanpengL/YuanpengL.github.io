@@ -117,3 +117,20 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Cambria", Georgia, "Times New Roman", serif !important;
 }
 
+/* NAVIGATION (top menu + site title) */
+.greedy-nav a,
+.masthead__menu-item,
+.site-title {
+  font-family: "Cambria", Georgia, "Times New Roman", serif !important;
+}
+
+/* SIDEBAR (name, text, links, social icons) */
+.sidebar,
+.author__avatar,
+.author__content,
+.author__content p,
+.author__urls-wrapper,
+.author__urls li a {
+  font-family: "Cambria", Georgia, "Times New Roman", serif !important;
+}
+
