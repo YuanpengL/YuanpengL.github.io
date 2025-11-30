@@ -134,11 +134,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Cambria", Georgia, "Times New Roman", serif !important;
 }
 
-/* Sidebar fonts: name, bio, links */
-.sidebar .author__name,
-.sidebar .author__bio,
-.sidebar .author__urls-wrapper,
-.sidebar .author__urls li a {
+/* Force sidebar fonts (name + description + links) */
+.author__name,
+.author__bio,
+.author__content,
+.author__content p,
+.author__urls li a {
   font-family: "Cambria", Georgia, "Times New Roman", serif !important;
 }
 
