@@ -30,6 +30,8 @@ During my PhD, I developed computational frameworks for **approximating free-for
 
 I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where I proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
+Outside research, I enjoy films, books, and music. I like observing and recording (with photos), and I prefer creating rather than interfering.
+
 
 # News {#news}
 - *2025.11*: Presented our paper “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
