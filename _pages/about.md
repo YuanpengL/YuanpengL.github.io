@@ -179,7 +179,7 @@ Given an input mesh, we reduce the number of different nodes through clustering 
 
 [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
 
-We discovered numerically a family of spherical Goldberg Polyhedra that have faces being planar with all vertices lieing on a shpere. Remaining degrees of freedom allows further reducing the number of different edges.
+We numerically discovered a new family of Goldberg polyhedra whose faces are planar and whose vertices all lie on a common sphere.
 </div>
 </div>
 
