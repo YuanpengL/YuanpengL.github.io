@@ -203,7 +203,7 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
 - **Visiting PhD Student** — *2025.02–2025.07*  
   EPFL, [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne  
   **Host:** Prof. Mark Pauly  
-  **Topic:** Elastic Gridshells with Deployable Components
+  **Topic:** Elastic Gridshells with Locally Deployable Components
 
 - **Visiting PhD Student** — *2024.02*  
   University of Technology Sydney (UTS), Sydney  
