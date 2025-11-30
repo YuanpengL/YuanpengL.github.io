@@ -203,7 +203,7 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
   Host: PNico Pietroni    
   Topic: Free-Form Surface Approximation Using Rotational Patches 
 - **Research Assistant**, *2021.08 - 2022.05*, RMIT, CISM, Melbourne, Australia.  
-  Supervisors: Prof. Yi Min “Mike” Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni    
+  Supervisor: Prof. Yi Min “Mike” Xie    
   Topic: Free-form Architectural Design with Repetitive Elements
   
 <sub><i>Last updated on 30 November 2025</i></sub>
