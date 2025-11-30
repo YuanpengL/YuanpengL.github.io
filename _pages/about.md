@@ -216,7 +216,7 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
   **Topic:** Free-form Surface Approximation Using Rotational Patches
 
 - **Research Assistant** — *2021.08–2022.05*  
-  RMIT University, CISM, Online
+  RMIT University, CISM, Online  
   **Supervisor:** Prof. Yi Min “Mike” Xie  
   
 <sub><i>Last updated on 30 November 2025</i></sub>
