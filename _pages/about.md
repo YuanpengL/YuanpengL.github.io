@@ -23,12 +23,12 @@ I am a soon-to-graduate Ph.D. candidate at the [Centre for Innovative Structures
 
 My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage **geometric insights** and **computational power** to advance architectural and engineering applications.
 
-During my PhD, I developed computational frameworks for **approximating free-form surfaces with repetitive elements** to enable cost-effective fabrication. These include: 
-- Reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**;
-- Approximating complex free-form surfaces using equivalent regular triangle panels in a **mesh-growth** manner; and
-- Simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**.
+During my PhD, we developed computational frameworks for **approximating free-form surfaces with repetitive elements** to enable cost-effective fabrication. These include: 
+- reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**;
+- approximating complex free-form surfaces using equivalent regular triangle panels in a **mesh-growth** manner; and
+- simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**.
 
-I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where I proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
+I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where we proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
 Outside research, I enjoy films, books, and music. I like observing and recording (with photos), and I prefer creating rather than interfering.
 
