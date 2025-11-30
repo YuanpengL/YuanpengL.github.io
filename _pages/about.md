@@ -34,7 +34,7 @@ During my PhD at RMIT [CISM]((https://www.cism.org.au/)), I developed computatio
 - *2023.07*: Presented our paper “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass2024.org/web/), Melbourne.
 
 
-# Selected Publications 
+# Selected Publications (by year)
 
 See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) for my full publication list.
 
