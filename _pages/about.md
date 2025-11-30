@@ -26,7 +26,7 @@ During my PhD at RMIT [CISM]((https://www.cism.org.au/)), I developed computatio
 # News
 - *2025.11*: Presented our paper “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.11*: Co-led the workshop “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
-- *2025.08*: Presented our paper **“Free-Form Surface Approximation Using Rotational Patches”** at [CCF CAD/Graphics 2025](https://cadgraphics2025.sdtbu.edu.cn/index.htm?v=1), Yantai.
+- *2025.08*: Presented our paper “Free-Form Surface Approximation Using Rotational Patches” at [CCF CAD/Graphics 2025](https://cadgraphics2025.sdtbu.edu.cn/index.htm?v=1), Yantai.
 - *2025.06*: Our paper “Free-Form Surface Approximation Using Rotational Patches” was accepted to *ACM Transactions on Graphics* and will be presented at **[SIGGRAPH 2026](https://s2026.siggraph.org/)**, Los Angeles.
 - *2025.02–2025.07*: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
 - *2024.08*: Presented our paper “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
