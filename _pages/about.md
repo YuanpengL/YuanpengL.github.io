@@ -95,7 +95,7 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 [paper](https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf)
 
-We present a meth growth algorithm to approximate free-form surfaces using equivalent regular triangles.
+We present a mesh growth algorithm to approximate free-form surfaces using equivalent regular triangles.
 </div>
 </div>
 
