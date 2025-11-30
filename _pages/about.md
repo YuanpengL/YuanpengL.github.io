@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+#About{#about}
 I am a soon-to-graduate Ph.D. candidate at the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Royal Melbourne Institute of Technology (RMIT), under the supervision of Prof. Yi Min 'Mike' Xie.
 
 My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage **geometric insights** and **computational power** to advance architectural and engineering applications.
@@ -29,7 +30,7 @@ During my PhD, I developed computational frameworks for **approximating free-for
 I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where I proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
 
-# News
+# News {#news}
 - *2025.11*: Presented our paper “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.11*: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.08*: Presented our paper “Free-Form Surface Approximation Using Rotational Patches” at [CCF CAD/Graphics 2025](https://cadgraphics2025.sdtbu.edu.cn/index.htm?v=1), Yantai.
@@ -40,7 +41,7 @@ I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https
 - *2023.07*: Presented our paper “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass2024.org/web/), Melbourne.
 
 
-# Selected Publications
+# Selected Publications {#publications}
 
 See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) for my full publication list.
 
@@ -193,14 +194,14 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
 
 
 
-# Education
+# Education {#education}
 - **Ph.D.**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, *2022.05–2026.02 (expected)*  
 - **M.Eng.** (Double Degree), Civil Engineering, [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Barcelona, *2018.09–2021.06*  
 - **M.Eng.** (Double Degree), Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, *2018.09–2021.06*  
 - **B.Eng.**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, *2014.09–2018.06*  
 
 
-# Research Experience
+# Research Experience {#research-experience}
 - **PhD Student Researcher** — *2022.05–2026.02*  
   RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Melbourne  
   **Supervisors:** Prof. Yi Min “Mike” Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
