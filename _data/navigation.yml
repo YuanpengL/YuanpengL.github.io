@@ -4,13 +4,13 @@ main:
     url: "/#about"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Research Experience"
-    url: "/#-research experience"
+    url: "/#research-experience"
