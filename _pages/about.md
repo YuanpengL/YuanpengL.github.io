@@ -213,7 +213,7 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
 
 - **Visiting PhD Student** — *2024.02*  
   University of Technology Sydney (UTS), Sydney  
-  **Host:** Prof. Nico Pietroni  
+  **Host:** [Prof. Nico Pietroni](https://www.nicopietroni.com/)   
   **Topic:** Free-form Surface Approximation Using Rotational Patches
 
 - **Research Assistant** — *2021.08–2022.05*  
