@@ -19,7 +19,7 @@ redirect_from:
 
 I am a soon-to-graduate Ph.D. candidate at the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Royal Melbourne Institute of Technology (RMIT), under the supervision of Prof. Yi Min 'Mike' Xie.
 
-My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage geometric insights and computational power to advance architectural and engineering applications.
+My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage **geometric insights** and **computational power** to advance architectural and engineering applications.
 
 During my PhD, I developed computational frameworks for **approximating free-form surfaces with repetitive elements** to enable cost-effective fabrication. These include: 
 - Reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**;
