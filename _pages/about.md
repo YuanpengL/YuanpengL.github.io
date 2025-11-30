@@ -195,12 +195,12 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
 
 # Research Experience
 - **PhD Student Researcher** — *2022.05–2026.02*  
-  RMIT University, Centre for Innovative Structures and Materials (CISM), Melbourne, Australia  
+  RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Melbourne, Australia  
   **Supervisors:** Prof. Yi Min “Mike” Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
   **Topic:** Free-form Architectural Design with Repetitive Elements
 
 - **Visiting PhD Student** — *2025.02–2025.07*  
-  EPFL, Geometric Computing Laboratory (GCM), Lausanne, Switzerland  
+  EPFL, [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne, Switzerland  
   **Host:** Prof. Mark Pauly  
   **Topic:** Elastic Gridshells with Deployable Components
 
@@ -210,7 +210,7 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
   **Topic:** Free-form Surface Approximation Using Rotational Patches
 
 - **Research Assistant** — *2021.08–2022.05*  
-  RMIT University, Centre for Innovative Structures and Materials (CISM), Online  
+  RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Online  
   **Supervisor:** Prof. Yi Min “Mike” Xie  
   
 <sub><i>Last updated on 30 November 2025</i></sub>
