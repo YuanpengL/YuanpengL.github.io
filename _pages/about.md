@@ -26,7 +26,7 @@ During my PhD, I developed computational frameworks for **approximating free-for
 - Approximating complex free-form surfaces using equivalent regular triangle panels in a **mesh-growth** manner; and
 - Simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**.
 
-I also had a visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where I proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
+I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where I proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
 
 # News
