@@ -51,7 +51,7 @@ See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ
 
 [paper](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
-We present a new class of elastic gridshell that are assembled from locally deployable rotational-surface components for efficient on-site assembly. 
+We present a new class of elastic gridshells assembled from locally deployable rotational-surface components for efficient on-site assembly. 
 </div>
 </div>
 
@@ -195,17 +195,17 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
 
 # Research Experience
 - **PhD Student Researcher** — *2022.05–2026.02*  
-  RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Melbourne, Australia  
+  RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Melbourne  
   **Supervisors:** Prof. Yi Min “Mike” Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
   **Topic:** Free-form Architectural Design with Repetitive Elements
 
 - **Visiting PhD Student** — *2025.02–2025.07*  
-  EPFL, [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne, Switzerland  
+  EPFL, [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne  
   **Host:** Prof. Mark Pauly  
   **Topic:** Elastic Gridshells with Deployable Components
 
 - **Visiting PhD Student** — *2024.02*  
-  University of Technology Sydney (UTS), Sydney, Australia  
+  University of Technology Sydney (UTS), Sydney  
   **Host:** Prof. Nico Pietroni  
   **Topic:** Free-form Surface Approximation Using Rotational Patches
 
