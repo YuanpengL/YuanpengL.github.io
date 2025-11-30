@@ -23,6 +23,58 @@ My work lies at the intersection of **architectural geometry**, **computational 
 
 During my PhD at RMIT [CISM]((https://www.cism.org.au/)), I developed computational frameworks for **approximating free-form surfaces with repetitive elements** to achieve cost-effective fabrication. These algorithms enable: (1) reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**; (2) approximating complex free-form surfaces using equivalent regular triangle panels in a **mesh-growth** manner; and (3) simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**. I also had a visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where I proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
 
+
+<p>
+  I am a soon-to-graduate Ph.D. candidate at the
+  <strong>Centre for Innovative Structures and Materials (CISM)</strong>,
+  RMIT University, supervised by Prof. Yi Min “Mike” Xie.
+</p>
+
+<p>
+  My work lies at the intersection of
+  <strong>architectural geometry</strong>,
+  <strong>computational design</strong>,
+  <strong>structural optimization</strong>, and
+  <strong>digital fabrication</strong>.
+  I aim to integrate geometric insight with computational methods to create
+  structurally efficient, fabrication-aware, and architecturally expressive designs.
+</p>
+
+<p>
+  During my PhD, I developed computational frameworks for
+  <strong>approximating free-form surfaces with repetitive elements</strong>
+  to enable cost-effective fabrication. These include:
+</p>
+
+<ul>
+  <li>
+    Reducing the number of distinct beams, panels, or joints through
+    <strong>clustering and optimization</strong>;
+  </li>
+  <li>
+    Approximating free-form surfaces using congruent regular triangles via a
+    <strong>mesh-growth</strong> strategy;
+  </li>
+  <li>
+    Simultaneously reducing multiple element types by
+    <strong>approximating free-form surfaces with assemblies of rotational patches</strong>.
+  </li>
+</ul>
+
+<p>
+  I also conducted a research visit at EPFL’s
+  <a href="https://www.epfl.ch/labs/gcm/" target="_blank">
+    Geometric Computing Laboratory (GCM)
+  </a>,
+  hosted by Prof. Mark Pauly, where I proposed a new class of
+  <strong>elastic gridshells assembled from locally deployable
+  rotational-surface components</strong>.
+  These components can be prefabricated, compactly stored, transported,
+  and rapidly deployed for efficient on-site assembly.
+</p>
+
+
+
 # News
 - *2025.11*: Presented our paper “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.11*: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
