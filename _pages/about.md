@@ -199,7 +199,7 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 - **Visiting PhD Student**, *2025.02 - 2025.07*, EPFL, Geometric Computing Labratory (GCM), Lausanne, Switzerland.  
   Host: Prof. Mark Pauly    
   Topic: Elastic Gridshells with Deployable Components
-- **Visiting PhD Student**, *2024.02*, University of Technology Sydney (UTS), Sydney, Australia
+- **Visiting PhD Student**, *2024.02*, University of Technology Sydney (UTS), Sydney, Australia  
   Host: PNico Pietroni    
   Topic: Free-Form Surface Approximation Using Rotational Patches 
 - **Research Assistant**, *2021.08 - 2022.05*, RMIT, CISM, Melbourne, Australia.  
