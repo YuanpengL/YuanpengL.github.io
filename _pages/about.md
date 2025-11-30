@@ -21,7 +21,7 @@ I am a soon-to-graduate Ph.D. candidate at the [Centre for Innovative Structures
 
 My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage geometric insights and computational power to advance architectural and engineering applications.
 
-During my PhD, I developed computational frameworks for **approximating free-form surfaces with repetitive elements** to achieve cost-effective fabrication. These include: 
+During my PhD, I developed computational frameworks for **approximating free-form surfaces with repetitive elements** to enable cost-effective fabrication. These include: 
 - reducing individually the number of distinct beams, panels, or joints within a given structure through **clustering and optimization**;
 - approximating complex free-form surfaces using equivalent regular triangle panels in a **mesh-growth** manner; and
 - simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**.
