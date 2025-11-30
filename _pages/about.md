@@ -29,9 +29,9 @@ During my PhD at RMIT CISM, I developed computational frameworks for **approxima
 - *2025.08*: Presented our paper **“Free-Form Surface Approximation Using Rotational Patches”** at [CCF CAD/Graphics 2025](https://cadgraphics2025.sdtbu.edu.cn/index.htm?v=1), Yantai.
 - *2025.06*: Our paper **“Free-Form Surface Approximation Using Rotational Patches”** was accepted to *ACM Transactions on Graphics* and will be presented at **[SIGGRAPH 2026](https://s2026.siggraph.org/)**, Los Angeles.
 - *2025.02–2025.07*: Research visit at **EPFL GCM**, Lausanne, hosted by Prof. Mark Pauly, on **elastic gridshells with locally deployable components**.
-- *2024.09*: Presented our paper **“Free-form Surface Approximation Using Congruent Regular Triangles”** at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
+- *2024.08*: Presented our paper **“Free-form Surface Approximation Using Congruent Regular Triangles”** at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
 - *2024.02*: Research visit at **UTS**, Sydney, hosted by Prof. Nico Pietroni, on **free-form surface approximation using rotational patches**.
-- *2023.08*: Presented our paper **“Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization”** at [IASS 2023](https://iass2024.org/web/), Melbourne.
+- *2023.07*: Presented our paper **“Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization”** at [IASS 2023](https://iass2024.org/web/), Melbourne.
 
 
 # Selected Publications 
