@@ -34,7 +34,7 @@ During my PhD at RMIT [CISM]((https://www.cism.org.au/)), I developed computatio
 - *2023.07*: Presented our paper “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass2024.org/web/), Melbourne.
 
 
-# Selected Publications (by year)
+# Selected Publications
 
 See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) for my full publication list.
 
@@ -48,7 +48,7 @@ See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ
 
 **Yuanpeng Liu**, Seiichi Suzuki, Florin Isvoranu, Mark Pauly  
 
-*Advances in Architectural Geometry (AAG) 2025, Boston*
+*Advances in Architectural Geometry (AAG) **2025**, Boston*
 
 [paper](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
@@ -69,7 +69,7 @@ We present a new class of elastic gridshells assembled from locally deployable r
 
 **Yuanpeng Liu**, Yi Min Xie, Ting-Uei Lee, Ziqi Wang, Nico Pietroni  
 
-*ACM Transactions on Graphics, 2025 (to appear at SIGGRAPH 2026, Los Angeles)*
+*ACM Transactions on Graphics, **2025** (to appear at SIGGRAPH 2026, Los Angeles)*
 
 [paper](https://dl.acm.org/doi/full/10.1145/3744707)
 
@@ -91,7 +91,7 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 **Yuanpeng Liu**, Ting-Uei Lee, Yi Min Xie
 
-*Proceedings of International Association for Shell and Spatial Structures (IASS) 2024, Zürich*
+*Proceedings of International Association for Shell and Spatial Structures (IASS) **2024**, Zürich*
 
 [paper](https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf)
 
@@ -112,7 +112,7 @@ We present a mesh growth algorithm to approximate free-form surfaces using equiv
 
 Minghao Bi, **Yuanpeng Liu**, Tao Xu, Yunzhen He, Jiaming Ma, Zicheng Zhuang, Yi Min Xie
 
-*Engineering Structures, 2024*
+*Engineering Structures, **2024***
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005)   [website](https://www.rmit.edu.au/research/centres-collaborations/centre-for-innovative-structures-and-materials/projects/optimised-pavillion)  [video](https://youtu.be/9l1Cq9cxjMk)
 
@@ -135,7 +135,7 @@ We build a physical prototype with repetitive panels, beams, and joints.
 
 **Yuanpeng Liu**, Ting-Uei Lee, Anooshe Rezaee Javan, Nico Pietroni, Yi Min Xie
 
-*Computer-Aided Design, 2024*
+*Computer-Aided Design, **2024***
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)  [GHPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
 
@@ -155,7 +155,7 @@ Given an input mesh, we reduce the number of different n-gonal faces through clu
 
 **Yuanpeng Liu**, Ting-Uei Lee, Antiopi Koronaki, Nico Pietroni, Yi Min Xie
 
-*Engineering Structures, 2023*
+*Engineering Structures, **2023***
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0141029623004303)
 
@@ -176,7 +176,7 @@ Given an input mesh, we reduce the number of different nodes through clustering 
 
 **Yuanpeng Liu**, Ting-Uei Lee, Anooshe Rezaee Javan, Yi Min Xie
 
-*Royal Society Open Science, 2022*
+*Royal Society Open Science, **2022***
 
 [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
 
