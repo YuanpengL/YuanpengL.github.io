@@ -193,8 +193,10 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
 - **B.Eng.**, Civil Engineering, *2014.09 - 2018.06*, Tongji University, Shanghai, China.
 
 # Research Experience
-- **PhD Student Researcher**, *2022.05 - 2026.02*, RMIT, CISM, Melbourne, Australia.
-- **Visiting PhD Student**, *2025.02 - 2025.07*, EPFL, Geometric Computing Labratory, Lausanne, Switzerland.
+- **PhD Student Researcher**, *2022.05 - 2026.02*, RMIT, CISM, Melbourne, Australia.  
+  Supervisors: Prof. Yi Min “Mike” Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni.  
+  Research areas: Free-form architectural design with repetitive elements
+- **Visiting PhD Student**, *2025.02 - 2025.07*, EPFL, Geometric Computing Labratory (GCM), Lausanne, Switzerland.
 - **Visiting PhD Student**, *2024.02*, EPFL, University of Technology Sydney (UTS), Sydney, Australia.
 - **Research Assistant**, *2021.08 - 2022.05*, RMIT, CISM, Melbourne, Australia.
 
