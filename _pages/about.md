@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuanpeng Liu"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
