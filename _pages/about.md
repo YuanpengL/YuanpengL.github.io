@@ -216,8 +216,7 @@ We discovered numerically a family of spherical Goldberg Polyhedra that have fac
   **Topic:** Free-form Surface Approximation Using Rotational Patches
 
 - **Research Assistant** — *2021.08–2022.05*  
-  RMIT University, Centre for Innovative Structures and Materials (CISM), Melbourne, Australia  
+  RMIT University, CISM, Online
   **Supervisor:** Prof. Yi Min “Mike” Xie  
-  **Topic:** Free-form Architectural Design with Repetitive Elements
   
 <sub><i>Last updated on 30 November 2025</i></sub>
