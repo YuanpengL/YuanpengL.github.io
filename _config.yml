@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Yuanpeng Liu"
 description              : ""
-#repository               : "RayeRen/acad-homepage.github.io"
+url                      : "https://yuanpengl.github.io"
+baseurl                  : ""
+#repository              : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
