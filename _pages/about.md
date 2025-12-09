@@ -207,7 +207,7 @@ We discovered numerically a new family of Goldberg polyhedra with planar faces a
 # Research Experience {#research-experience}
 - **Research Assistant** — *2025.11–*  
   Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing/Changzhou  
-  **Supervisors:** Prof. Yi Min 'Mike' Xie  
+  **Supervisor:** Prof. Yi Min 'Mike' Xie  
   
 - **PhD Student Researcher** — *2022.05–2026.02*  
   RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Melbourne  
