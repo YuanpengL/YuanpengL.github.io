@@ -41,7 +41,7 @@ Outside research, I enjoy films, books, and music. I like travelling, observing 
 - *2025.02–2025.07*: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
 - *2024.08*: Presented our paper “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
 - *2024.02*: Research visit at UTS, Sydney, hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
-- *2023.07*: Presented our paper “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass2024.org/web/), Melbourne.
+- *2023.07*: Presented our paper “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
 
 
 # Selected Publications {#publications}
