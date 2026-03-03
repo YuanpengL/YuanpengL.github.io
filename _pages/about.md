@@ -204,22 +204,22 @@ We numerically discovered a new family of Goldberg polyhedra with planar faces a
 
 
 # Research Experience {#research-experience}
-- **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing, *2025.11–Present*  
-  **Supervisor:** Prof. Yi Min 'Mike' Xie  
+- Research Assistant, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing (2025.11–Present)  
+  Supervisor: Prof. Yi Min 'Mike' Xie  
   
-- **PhD Student**, RMIT, [CISM](https://www.cism.org.au/), Melbourne, *2022.05–2026.02*  
-  **Supervisors:** Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
-  **Topic:** Free-form Architectural Design with Repetitive Elements
+- **PhD Student**, RMIT, [CISM](https://www.cism.org.au/), Melbourne (2022.05–2026.02)  
+  Supervisors: Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
+  Topic: Free-form Architectural Design with Repetitive Elements
 
-- **Visiting PhD Student**, EPFL, [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, *2025.02–2025.07*  
-  **Host:** Prof. Mark Pauly  
-  **Topic:** Elastic Gridshells with Locally Deployable Components
+- **Visiting PhD Student**, EPFL, [GCM](https://www.epfl.ch/labs/gcm/), Lausanne (2025.02–2025.07)  
+  Host: Prof. Mark Pauly  
+  Topic: Elastic Gridshells with Locally Deployable Components
 
-- **Visiting PhD Student**, University of Technology Sydney, Sydney, *2024.02*  
-  **Host:** [Prof. Nico Pietroni](https://www.nicopietroni.com/)   
-  **Topic:** Free-form Surface Approximation Using Rotational Patches
+- **Visiting PhD Student**, University of Technology Sydney, Sydney (2024.02)  
+  Host: [Prof. Nico Pietroni](https://www.nicopietroni.com/)   
+  Topic: Free-form Surface Approximation Using Rotational Patches
 
-- **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online, *2021.08–2022.05*  
-  **Supervisor:** Prof. Yi Min ‘Mike’ Xie  
+- **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online (2021.08–2022.05)  
+  Supervisor: Prof. Yi Min 'Mike' Xie  
   
 <sub><i>Last updated on 3 March 2026</i></sub>
