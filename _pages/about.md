@@ -34,21 +34,17 @@ Outside research, I enjoy films, books, and music. I like travelling, observing 
 
 
 # News {#news}
-- *2026.02*: PhD degree awarded.
-- *2025.11*: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
-- *2025.11*: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
-- *2025.06*: “Free-Form Surface Approximation Using Rotational Patches” accepted to ***ACM Transactions on Graphics***, to be presented at **[SIGGRAPH 2026](https://s2026.siggraph.org/)**, Los Angeles.
-- *2025.02–2025.07*: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
-- *2024.08*: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
-- *2024.02*: Short research visit at UTS, Sydney, hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
-- *2023.07*: Presented “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
+- 2026.02: PhD degree awarded.
+- 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
+- 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
+- 2025.06: “Free-Form Surface Approximation Using Rotational Patches” accepted to ***ACM Transactions on Graphics***, to be presented at **[SIGGRAPH 2026](https://s2026.siggraph.org/)**, Los Angeles.
+- 2025.02–2025.07: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
+- 2024.08: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
+- 2024.02: Short research visit at UTS, Sydney, hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
+- 2023.07: Presented “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
 
 
 # Selected Publications {#publications}
-
-See [GoogleScholar](https://scholar.google.com/citations?hl=en&user=neiW5ZgAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate](https://www.researchgate.net/profile/Yuanpeng-Liu-3?ev=hdr_xprf) for my full publication list.
-
-
 
 <div class="paper-box">
   <div class="paper-box-image"><div><a href="https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461" target="_blank"><img src="images/gridshell.jpg" alt="sym" width="100%"></a></div></div>
@@ -196,25 +192,25 @@ We numerically discovered a new family of Goldberg polyhedra with planar faces a
 
 
 # Education {#education}
-- **Ph.D.**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, *2022.05–2026.02*  
-- **M.Eng.** (Double Degree), Civil Engineering, [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Barcelona, *2018.09–2021.06*  
-- **M.Eng.** (Double Degree), Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, *2018.09–2021.06*  
-- **B.Eng.**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, *2014.09–2018.06*  
+- **Ph.D.**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, 2022.05–2026.02 
+- **M.Eng.** (Double Degree), Civil Engineering, [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Barcelona, 2018.09–2021.06  
+- **M.Eng.** (Double Degree), Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2018.09–2021.06  
+- **B.Eng.**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2014.09–2018.06  
 
 
 # Research Experience {#research-experience}
-- **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing (2025.11–Present)  
+- **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing, 2025.11–Present  
   Supervisor: Prof. Yi Min 'Mike' Xie  
   
-- **PhD Student**, RMIT, [CISM](https://www.cism.org.au/), Melbourne (2022.05–2026.02)  
+- **PhD Student**, RMIT, [CISM](https://www.cism.org.au/), Melbourne, 2022.05–2026.02  
   Supervisors: Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
   Topic: Free-form Architectural Design with Repetitive Elements
 
-- **Visiting PhD Student**, EPFL, [GCM](https://www.epfl.ch/labs/gcm/), Lausanne (2025.02–2025.07)  
+- **Visiting PhD Student**, EPFL, [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, 2025.02–2025.07  
   Host: Prof. Mark Pauly  
   Topic: Elastic Gridshells with Locally Deployable Components
 
-- **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online (2021.08–2022.05)  
+- **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online, 2021.08–2022.05  
   Supervisor: Prof. Yi Min 'Mike' Xie  
   
 <sub><i>Last updated on 3 March 2026</i></sub>
