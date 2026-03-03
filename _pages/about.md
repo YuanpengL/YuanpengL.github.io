@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About {#about}
-
-I received my PhD from the Royal Melbourne Institute of Technology (RMIT), where I conducted research at the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/) under the supervision of Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, and Prof. Nico Pietroni. 
+I received my PhD from the Royal Melbourne Institute of Technology (RMIT), working at the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/) under the supervision of Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, and Prof. Nico Pietroni. 
 
 My research lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage **geometric insights** and **computational power** to advance architectural and engineering applications.
 
