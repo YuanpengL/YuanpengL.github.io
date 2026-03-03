@@ -19,7 +19,7 @@ redirect_from:
 
 # About {#about}
 
-I am a soon-to-graduate Ph.D. candidate at the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Royal Melbourne Institute of Technology (RMIT), under the supervision of Prof. Yi Min 'Mike' Xie.
+I received my PhD from the Royal Melbourne Institute of Technology (RMIT), where I conducted research at the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/) under the supervision of Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, and Prof. Nico Pietroni. 
 
 My work lies at the intersection of **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage **geometric insights** and **computational power** to advance architectural and engineering applications.
 
@@ -28,12 +28,13 @@ During my PhD, I developed computational frameworks for **approximating free-for
 - approximating complex free-form surfaces using equivalent regular triangle panels in a **mesh-growth** manner; and
 - simultaneously reducing multiple element types (including beams, joints, and panels) by **approximating free-forms surfaces using assemblies of rotational patches**.
 
-I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where we proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be prefabricated, compactly stored and transported, and rapidly deployed for efficient on-site assembly.
+I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where we proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be compactly stored and transported, and deployed on-site for efficient assembly.
 
 Outside research, I enjoy films, books, and music. I like travelling, observing and recording (with photos), and I prefer creating rather than interfering.
 
 
 # News {#news}
+- *2026.02*: Received my PhD degree.
 - *2025.11*: Presented our paper “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.11*: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.08*: Presented our paper “Free-Form Surface Approximation Using Rotational Patches” at [CCF CAD/Graphics 2025](https://cadgraphics2025.sdtbu.edu.cn/index.htm?v=1), Yantai.
@@ -190,42 +191,35 @@ Given an input mesh, we reduce the number of different nodes through clustering 
 
 [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
 
-We discovered numerically a new family of Goldberg polyhedra with planar faces and spherical vertices. The remaining degrees of freedom allow further reducing distinct edge lengths for cost-effective fabrication.
+We numerically discovered a new family of Goldberg polyhedra with planar faces and vertices on a common sphere. The remaining degrees of freedom allow further reducing distinct edge lengths for cost-effective fabrication.
 </div>
 </div>
-
-
 
 
 # Education {#education}
-- **Ph.D.**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, *2022.05–2026.02 (expected)*  
+- **Ph.D.**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, *2022.05–2026.02*  
 - **M.Eng.** (Double Degree), Civil Engineering, [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Barcelona, *2018.09–2021.06*  
 - **M.Eng.** (Double Degree), Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, *2018.09–2021.06*  
 - **B.Eng.**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, *2014.09–2018.06*  
 
 
 # Research Experience {#research-experience}
-- **Research Assistant** — *2025.11–*  
-  Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing/Changzhou  
+- **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing, *2025.11–*
   **Supervisor:** Prof. Yi Min 'Mike' Xie  
   
-- **PhD Student Researcher** — *2022.05–2026.02*  
-  RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Melbourne  
+- **PhD Student**, RMIT, [CISM](https://www.cism.org.au/), Melbourne, *2022.05–2026.02*  
   **Supervisors:** Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, Prof. Nico Pietroni  
   **Topic:** Free-form Architectural Design with Repetitive Elements
 
-- **Visiting PhD Student** — *2025.02–2025.07*  
-  EPFL, [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), Lausanne  
+- **Visiting PhD Student**, EPFL, [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, *2025.02–2025.07*  
   **Host:** Prof. Mark Pauly  
   **Topic:** Elastic Gridshells with Locally Deployable Components
 
-- **Visiting PhD Student** — *2024.02*  
-  University of Technology Sydney (UTS), Sydney  
+- **Visiting PhD Student**, University of Technology Sydney, Sydney, *2024.02*  
   **Host:** [Prof. Nico Pietroni](https://www.nicopietroni.com/)   
   **Topic:** Free-form Surface Approximation Using Rotational Patches
 
-- **Research Assistant** — *2021.08–2022.05*  
-  RMIT University, [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), Online  
+- **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online, *2021.08–2022.05*  
   **Supervisor:** Prof. Yi Min ‘Mike’ Xie  
   
-<sub><i>Last updated on 30 November 2025</i></sub>
+<sub><i>Last updated on 3 March 2026</i></sub>
