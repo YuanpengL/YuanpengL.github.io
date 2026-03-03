@@ -37,7 +37,6 @@ Outside research, I enjoy films, books, and music. I like travelling, observing 
 - *2026.02*: PhD degree awarded.
 - *2025.11*: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - *2025.11*: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
-- *2025.08*: Presented “Free-Form Surface Approximation Using Rotational Patches” at [CCF CAD/Graphics 2025](https://cadgraphics2025.sdtbu.edu.cn/index.htm?v=1), Yantai.
 - *2025.06*: “Free-Form Surface Approximation Using Rotational Patches” accepted to ***ACM Transactions on Graphics***, to be presented at **[SIGGRAPH 2026](https://s2026.siggraph.org/)**, Los Angeles.
 - *2025.02–2025.07*: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
 - *2024.08*: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
