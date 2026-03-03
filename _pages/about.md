@@ -24,7 +24,7 @@ My research focuses on **architectural geometry**, **computational design**, **s
 
 During my PhD, I developed computational frameworks for **rationalizing free-form surfaces with repetitive elements** to enable cost-effective fabrication, including reducing individually distinct beams, penals, or nodes through **clustering and optimization**, approximating target surfaces with regular triangle panels via **mesh-growth**, and jointly reducing multiple element types using **assemblies of rotational patches**.
 
-I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where we proposed a new class of **elastic gridshells assembled from locally deployable rotational-surface components** that can be compactly transported and deployed on-site for efficient assembly.
+I also had a research visit at EPFL [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where we proposed a new class of **elastic gridshells** assembled from **locally deployable rotational-surface components** that can be compactly transported and deployed on-site for efficient assembly.
 
 Outside research, I enjoy films, books, and music. I like travelling, observing and recording (with photos), and I prefer creating rather than interfering.
 
