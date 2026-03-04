@@ -188,10 +188,10 @@ We numerically discovered a new family of Goldberg polyhedra with planar faces a
 
 
 # Education {#education}
-- **Ph.D.**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, 2022.05–2026.02 
-- **M.Eng.** (Double Degree), Civil Engineering, [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Barcelona, 2018.09–2021.06  
-- **M.Eng.** (Double Degree), Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2018.09–2021.06  
-- **B.Eng.**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2014.09–2018.06  
+- **PhD**, Civil Engineering, [RMIT University](https://www.rmit.edu.au/), Melbourne, 2022.05–2026.02 
+- **MEng** (Double Degree), Civil Engineering, [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Barcelona, 2018.09–2021.06  
+- **MEng** (Double Degree), Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2018.09–2021.06  
+- **BEng**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2014.09–2018.06  
 
 
 # Research Experience {#research-experience}
