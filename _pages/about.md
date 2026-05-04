@@ -141,7 +141,7 @@ We build a physical prototype with repetitive panels, beams, and joints.
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)  [GHPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
 
-Given an input mesh, we reduce the number of different n-gonal faces through clustering and optimization.
+We present a clustering–optimization framework to reduce the number of distinct n-gonal faces in a given input mesh.
 </div>
 </div>
 
@@ -161,7 +161,7 @@ Given an input mesh, we reduce the number of different n-gonal faces through clu
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0141029623004303)
 
-Given an input mesh, we reduce the number of different nodes through clustering and optimization.
+We present a clustering–optimization framework to reduce the number of geometrically distinct nodes in single- or double-layer space frames.
 </div>
 </div>
 
@@ -182,7 +182,7 @@ Given an input mesh, we reduce the number of different nodes through clustering 
 
 [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
 
-We numerically discovered a new family of Goldberg polyhedra with planar faces and vertices on a common sphere. The remaining degrees of freedom allow further reducing distinct edge lengths for cost-effective fabrication.
+We numerically discovered a new family of Goldberg polyhedra with planar faces and cospherical vertices. The remaining degrees of freedom allow further reducing distinct edge lengths for cost-effective fabrication.
 </div>
 </div>
 
