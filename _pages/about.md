@@ -26,7 +26,7 @@ During my PhD, I developed computational frameworks for **rationalizing free-for
 
 I also had a research visit at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, where we developed a new class of **elastic gridshells** assembled from **locally deployable rotational-surface components** that can be compactly transported and deployed on-site for efficient assembly.
 
-Outside research, I enjoy films, books, and music. I like travelling, observing and recording (with photos), and I prefer creating rather than interfering.
+Outside of research, I enjoy films, books, and music. I like travelling, observing and recording (with photos), and I prefer creating rather than interfering.
 
 
 # News {#news}
