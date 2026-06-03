@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanpeng Liu (刘远鹏)"
+title                    : "Yuanpeng Liu"
 description              : ""
 url                      : "https://yuanpengl.github.io"
 baseurl                  : ""
