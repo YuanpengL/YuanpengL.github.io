@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuanpeng Liu (刘远鹏)"
+title: "Yuanpeng Liu"
 excerpt: ""
 author_profile: true
 redirect_from: 
