@@ -30,6 +30,7 @@ Outside of research, I enjoy films, books, and music. I like travelling, observi
 
 
 # News {#news}
+- 2026.06: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join EPFL [GCM](https://www.epfl.ch/labs/gcm/) as a postdoctoral researcher with Prof. Mark Pauly this September.
 - 2026.02: PhD degree awarded.
 - 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
@@ -195,7 +196,7 @@ We numerically discovered a new family of Goldberg polyhedra with planar faces a
 
 
 # Research Experience {#research-experience}
-- **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing, 2025.11–Present  
+- **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing, 2025.11–2026.8  
   Supervisor: Prof. Yi Min 'Mike' Xie  
   
 - **PhD Student**, RMIT, [CISM](https://www.cism.org.au/), Melbourne, 2022.05–2026.02  
