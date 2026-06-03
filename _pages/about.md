@@ -210,4 +210,4 @@ We numerically discovered a new family of Goldberg polyhedra with planar faces a
 - **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online, 2021.08–2022.05  
   Supervisor: Prof. Yi Min 'Mike' Xie  
   
-<sub><i>The website is adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io). Last update: 2026.06</i></sub>
+<sub><i>Last update: 2026.06. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
