@@ -34,7 +34,7 @@ Outside of research, I enjoy films, books, and music. I like travelling, observi
 - 2026.02: PhD degree awarded.
 - 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
-- 2025.06: “Free-Form Surface Approximation Using Rotational Patches” accepted to ***ACM Transactions on Graphics*** ([SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles).
+- 2025.06: “Free-Form Surface Approximation Using Rotational Patches” accepted to *ACM Transactions on Graphics* ([SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles).
 - 2025.02–2025.07: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
 - 2024.08: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
 - 2024.02: Short research visit at UTS, Sydney, hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
@@ -72,7 +72,7 @@ We present a new class of elastic gridshells assembled from locally deployable r
 
 **Yuanpeng Liu**, Yi Min Xie, Ting-Uei Lee, Ziqi Wang, Nico Pietroni  
 
-*ACM Transactions on Graphics, **2025** (SIGGRAPH 2026, Los Angeles)*
+***ACM Transactions on Graphics**, **2025** (SIGGRAPH 2026, Los Angeles)*
 
 [paper](https://dl.acm.org/doi/full/10.1145/3744707)
 
