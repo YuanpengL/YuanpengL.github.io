@@ -183,7 +183,7 @@ A clustering–optimization framework to reduce the number of distinct nodes in 
 
 [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
 
-A new family of Goldberg polyhedra with planar faces and cospherical vertices. 
+A new family of Goldberg polyhedra with planar faces, cospherical vertices, and limited types of edges. 
 </div>
 </div>
 
