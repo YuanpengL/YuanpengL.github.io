@@ -35,9 +35,9 @@ Outside of research, I enjoy films, books, and music. I like travelling, observi
 - 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - 2025.06: “Free-Form Surface Approximation Using Rotational Patches” accepted to ***ACM Transactions on Graphics*** ([SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles).
-- 2025.02–2025.07: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), Lausanne, hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
+- 2025.02–2025.07: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
 - 2024.08: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
-- 2024.02: Short research visit at UTS, Sydney, hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
+- 2024.02: Short research visit at [UTS](https://www.uts.edu.au/), hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
 - 2023.07: Presented “Reducing the Number of Different Faces in Free-Form Surface Approximations Through Clustering and Optimization” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
 
 
@@ -55,7 +55,7 @@ Outside of research, I enjoy films, books, and music. I like travelling, observi
 
 [paper](https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461)
 
-We present a new class of elastic gridshells assembled from locally deployable rotational-surface components for efficient on-site assembly. 
+A new class of elastic gridshells assembled from locally deployable rotational-surface components. 
 </div>
 </div>
 
@@ -76,7 +76,7 @@ We present a new class of elastic gridshells assembled from locally deployable r
 
 [paper](https://dl.acm.org/doi/full/10.1145/3744707)
 
-We present a method to approximate free-form surfaces using assemblies of rotational patches to enable simultaneous repetition of multiple elements (such as beams, panels, and joints) for cost-effective fabrication. 
+A method to approximate free-form surfaces using assemblies of rotational patches. 
 </div>
 </div>
 
@@ -98,7 +98,7 @@ We present a method to approximate free-form surfaces using assemblies of rotati
 
 [paper](https://www.researchgate.net/profile/Yuanpeng-Liu-3/publication/383865428_Free-form_surface_approximation_using_congruent_regular_triangles/links/66de91502390e50b2c7a4ecc/Free-form-surface-approximation-using-congruent-regular-triangles.pdf)
 
-We present a mesh growth algorithm to approximate free-form surfaces using equivalent regular triangles.
+A mesh growth algorithm to approximate free-form surfaces using equivalent regular triangles.
 </div>
 </div>
 
@@ -119,7 +119,7 @@ Minghao Bi, **Yuanpeng Liu**, Tao Xu, Yunzhen He, Jiaming Ma, Zicheng Zhuang, Yi
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0141029624004747#fig0005)   [website](https://www.rmit.edu.au/research/centres-collaborations/centre-for-innovative-structures-and-materials/projects/optimised-pavillion)  [video](https://youtu.be/9l1Cq9cxjMk)
 
-We build a physical prototype with repetitive panels, beams, and joints.
+A physical prototype with repetitive panels, beams, and joints.
 </div>
 </div>
 
@@ -142,7 +142,7 @@ We build a physical prototype with repetitive panels, beams, and joints.
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0010448523001653)  [GHPlugin](https://www.food4rhino.com/en/app/faceclusteropt)
 
-We present a clustering–optimization framework to reduce the number of distinct n-gonal faces in a given input mesh.
+A clustering–optimization framework to reduce the number of distinct n-gonal faces in a given input mesh.
 </div>
 </div>
 
@@ -162,7 +162,7 @@ We present a clustering–optimization framework to reduce the number of distinc
 
 [paper](https://www.sciencedirect.com/science/article/pii/S0141029623004303)
 
-We present a clustering–optimization framework to reduce the number of geometrically distinct nodes in single- or double-layer space frames.
+A clustering–optimization framework to reduce the number of distinct nodes in space frames.
 </div>
 </div>
 
@@ -183,7 +183,7 @@ We present a clustering–optimization framework to reduce the number of geometr
 
 [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220675)
 
-We numerically discovered a new family of Goldberg polyhedra with planar faces and cospherical vertices. The remaining degrees of freedom allow further reducing distinct edge lengths for cost-effective fabrication.
+A new family of Goldberg polyhedra with planar faces and cospherical vertices. 
 </div>
 </div>
 
