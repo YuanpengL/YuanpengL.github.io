@@ -207,4 +207,4 @@ A new family of Goldberg polyhedra with planar faces, cospherical vertices, and 
 - **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online, 2021.08–2022.05  
   Supervisor: Prof. Yi Min 'Mike' Xie  
   
-<sub><i>Last update: 2026.06. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
+<sub><i>Last update: 2026.07. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
