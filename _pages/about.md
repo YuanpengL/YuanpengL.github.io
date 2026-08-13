@@ -26,8 +26,8 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 
 
 # News {#news}
-- 2026.07: Will present “Free-Form Surface Approximation Using Rotational Patches” at [SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles.
-- 2026.05: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join EPFL [GCM](https://www.epfl.ch/labs/gcm/) as a postdoc with Prof. Mark Pauly this September.
+- 2026.07: Presented “Free-Form Surface Approximation Using Rotational Patches” at [SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles.
+- 2026.05: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join EPFL [GCM](https://www.epfl.ch/labs/gcm/) as a postdoc this September.
 - 2026.02: PhD degree awarded.
 - 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
 - 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), MIT, Boston.
@@ -192,6 +192,7 @@ A new family of Goldberg polyhedra with planar faces, cospherical vertices, and 
 - **BEng**, Civil Engineering, [Tongji University](https://en.tongji.edu.cn/p/), Shanghai, 2014.09–2018.06  
 
 
+<!--
 # Research Experience {#research-experience}
 - **Research Assistant**, Hohai University, [College of Future Technologies](https://ft.hhu.edu.cn/main.htm#), Nanjing, 2025.11–2026.8  
   Supervisor: Prof. Yi Min 'Mike' Xie  
@@ -206,5 +207,6 @@ A new family of Goldberg polyhedra with planar faces, cospherical vertices, and 
 
 - **Research Assistant**, RMIT, [CISM](https://www.cism.org.au/), Online, 2021.08–2022.05  
   Supervisor: Prof. Yi Min 'Mike' Xie  
+-->
   
-<sub><i>Last update: 2026.07. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
+<sub><i>Last update: 2026.08. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
