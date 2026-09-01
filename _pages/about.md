@@ -28,7 +28,7 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 # News {#news}
 - 2026.09 Started a postdoc at [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/).
 - 2026.07: Presented “Free-Form Surface Approximation Using Rotational Patches” at [SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles.
-- 2026.05: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join EPFL [GCM](https://www.epfl.ch/labs/gcm/) as a postdoc.
+- 2026.05: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/) as a postdoc.
 - 2026.02: PhD degree awarded.
 - 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), Boston.
 - 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with Alison Martin, Prof. Mark Pauly, and Dr. Seiichi Suzuki at [AAG 2025](https://www.aag2025.com/), Boston.
