@@ -20,12 +20,13 @@ redirect_from:
 # About {#about}
 My research focuses on **architectural geometry**, **computational design**, **structural optimization**, and **digital fabrication**, aiming to leverage **geometric insights** and **computational power** to advance architectural and engineering applications.
 
-I am an incoming postdoctoral researcher in the [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/) at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), led by Prof. Mark Pauly. I received my PhD from [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/), within the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), supervised by Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, and Prof. Nico Pietroni, with a focus on **rationalizing free-form architectural surfaces with repetitive elements** to enable cost-effective fabrication. I also conducted a six-month research visit to [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/), where we developed a new class of **elastic gridshells** assembled from **locally deployable rotational-surface components**. Prior to that, I received double Master's degrees from [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) and [Tongji University](https://en.tongji.edu.cn/p/), and a Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/).
+I am a postdoctoral researcher in the [Geometric Computing Laboratory (GCM)](https://www.epfl.ch/labs/gcm/) at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), led by Prof. Mark Pauly. I received my PhD from [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/), within the [Centre for Innovative Structures and Materials (CISM)](https://www.cism.org.au/), supervised by Prof. Yi Min 'Mike' Xie, Dr. Ting-Uei (Jeff) Lee, and Prof. Nico Pietroni, with a focus on **rationalizing free-form architectural surfaces with repetitive elements** to enable cost-effective fabrication. I also conducted a six-month research visit to [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/), where we developed a new class of **elastic gridshells** assembled from **locally deployable rotational-surface components**. Prior to that, I received double Master's degrees from [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en) and [Tongji University](https://en.tongji.edu.cn/p/), and a Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/).
 
 Outside of research, I enjoy films, books, and music. I like travelling and observing, and I prefer creating rather than interfering.
 
 
 # News {#news}
+- 2026.09 Started a postdoc at [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/).
 - 2026.07: Presented “Free-Form Surface Approximation Using Rotational Patches” at [SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles.
 - 2026.05: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join EPFL [GCM](https://www.epfl.ch/labs/gcm/) as a postdoc this September.
 - 2026.02: PhD degree awarded.
@@ -36,6 +37,7 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 - 2024.08: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), ETH Zürich.
 - 2024.02: Short research visit at [UTS](https://www.uts.edu.au/), hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
 - 2023.07: Presented “Reducing the Number of Different Faces in Free-Form Surface Approximations” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
+- 2025.05: Started PhD at [RMIT](https://www.rmit.edu.au/) [CISM](https://www.cism.org.au/).
 
 
 # Selected Publications {#publications}
