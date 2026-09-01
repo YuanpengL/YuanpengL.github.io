@@ -37,7 +37,7 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 - 2024.08: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), Zürich.
 - 2024.02: Short research visit at [UTS](https://www.uts.edu.au/), hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
 - 2023.07: Presented “Reducing the Number of Different Faces in Free-Form Surface Approximations” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
-- 2025.05: Started PhD at [RMIT](https://www.rmit.edu.au/) [CISM](https://www.cism.org.au/).
+- 2022.05: Started PhD at [RMIT](https://www.rmit.edu.au/) [CISM](https://www.cism.org.au/).
 
 
 # Selected Publications {#publications}
