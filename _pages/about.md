@@ -26,7 +26,7 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 
 
 # News {#news}
-- 2026.09 Started a postdoc at [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/).
+- 2026.09: Started a postdoc at [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/).
 - 2026.07: Presented “Free-Form Surface Approximation Using Rotational Patches” at [SIGGRAPH 2026](https://s2026.siggraph.org/), Los Angeles.
 - 2026.05: Awarded the [Swiss Government Excellence Scholarship](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships) to join [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/) as a postdoc.
 - 2026.02: PhD degree awarded.
