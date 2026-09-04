@@ -33,7 +33,7 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 - 2025.11: Presented “Double-Layered Elastic Gridshells with Locally Deployable Rotational-Surface Components” at [AAG 2025](https://www.aag2025.com/), Boston.
 - 2025.11: Co-led the [workshop](https://www.aag2025.com/workshop-2) “Beyond Continuity: Designing Elastic Gridshells with Discrete Reusable Elements” with [Alison Martin](https://www.instagram.com/alisonmartin57/), [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly?lang=en), and [Dr. Seiichi Suzuki](https://sesuzuki.com/) at [AAG 2025](https://www.aag2025.com/), Boston.
 - 2025.06: “Free-Form Surface Approximation Using Rotational Patches” accepted to ***ACM Transactions on Graphics***.
-- 2025.02–2025.07: Research visit at EPFL [GCM](https://www.epfl.ch/labs/gcm/), hosted by Prof. Mark Pauly, on "elastic gridshells with locally deployable components".
+- 2025.02–2025.07: Research visit at [EPFL](https://www.epfl.ch/en/) [GCM](https://www.epfl.ch/labs/gcm/), hosted by [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly?lang=en), on "elastic gridshells with locally deployable components".
 - 2024.08: Presented “Free-form Surface Approximation Using Congruent Regular Triangles” at [IASS 2024](https://iass2024.org/web/), Zürich.
 - 2024.02: Short research visit at [UTS](https://www.uts.edu.au/), hosted by [Prof. Nico Pietroni](https://www.nicopietroni.com/), on "free-form surface approximation using rotational patches".
 - 2023.07: Presented “Reducing the Number of Different Faces in Free-Form Surface Approximations” at [IASS 2023](https://iass-structures.org/event-4479988), Melbourne.
