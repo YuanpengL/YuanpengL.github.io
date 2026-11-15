@@ -42,6 +42,28 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 
 # Selected Publications {#publications}
 
+
+<div class="paper-box">
+  <div class="paper-box-image"><div><a href="https://authors.elsevier.com/a/1o6fM3IhXN6x%7EV" target="_blank"><img src="images/forwardDesign.jpg" alt="sym" width="100%"></a></div></div>
+  <div class="paper-box-text" markdown="1">
+
+**Forward Design of Free-Form Surfaces Composed of Rotational Patches**  
+
+**Yuanpeng Liu**, Yi Min Xie  
+
+*Automation in Construction, **2026***
+
+[paper](https://authors.elsevier.com/a/1o6fM3IhXN6x%7EV)
+
+A forward design tool to create free-form surfaces from rotational patches for element repetition. 
+</div>
+</div>
+
+
+
+
+
+
 <div class="paper-box">
   <div class="paper-box-image"><div><a href="https://infoscience.epfl.ch/entities/publication/b6a52c0a-5416-4eab-87fa-11f04660d461" target="_blank"><img src="images/gridshell.jpg" alt="sym" width="100%"></a></div></div>
   <div class="paper-box-text" markdown="1">
@@ -75,7 +97,7 @@ A new class of elastic gridshells assembled from locally deployable rotational-s
 
 [paper](https://dl.acm.org/doi/full/10.1145/3744707)
 
-A method to approximate free-form surfaces using assemblies of rotational patches. 
+A method to approximate free-form surfaces using assemblies of rotational patches for element repetition. 
 </div>
 </div>
 
