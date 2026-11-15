@@ -234,4 +234,4 @@ A new family of Goldberg polyhedra with planar faces, cospherical vertices, and 
   Supervisor: Prof. Yi Min 'Mike' Xie  
 -->
   
-<sub><i>Last update: 2026.09. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
+<sub><i>Last update: 2026.11. Adapted from [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).</i></sub>
