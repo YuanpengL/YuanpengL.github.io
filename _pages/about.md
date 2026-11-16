@@ -54,7 +54,7 @@ Outside of research, I enjoy films, books, and music. I like travelling and obse
 
 *Automation in Construction, **2026***
 
-[paper](https://github.com/YuanpengL/forward-design-rotational-patches/blob/main/forward%20design%20paper.pdf).  [code](https://github.com/YuanpengL/forward-design-rotational-patches/tree/main)
+[paper](https://github.com/YuanpengL/forward-design-rotational-patches/blob/main/forward%20design%20paper.pdf)  [code](https://github.com/YuanpengL/forward-design-rotational-patches/tree/main)
 
 A forward design tool to create free-form surfaces from rotational patches for element repetition. 
 </div>
